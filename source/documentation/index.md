@@ -8,7 +8,9 @@ Elasticsearch [external link], Logstash [external link] and Kibana [external lin
 - a server‑side data processing pipeline that ingests data from multiple sources simultaneously. It transforms it using proprietary technology, sends it to a "stash" like Elasticsearch.
 - a program that lets users visualize data with charts and graphs in Elasticsearch
 
-[IMAGE]
+<br>
+![](/ELK.png)
+<br>
 
 You can retain logging information for a longer period of time by setting up a third party log management service. Instructions on how to set up a log management service can be found [here](http://here) [external link]. The next section details how to set up an example log management service, [Logit.io](https://logit.i/).
 
