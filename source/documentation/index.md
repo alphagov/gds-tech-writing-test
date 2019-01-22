@@ -9,7 +9,7 @@ Elasticsearch [external link], Logstash [external link] and Kibana [external lin
 - a program that lets users visualize data with charts and graphs in Elasticsearch
 
 <br>
-![](/ELK.png)
+![](/images/ELK.png)
 <br>
 
 You can retain logging information for a longer period of time by setting up a third party log management service. Instructions on how to set up a log management service can be found [here](http://here) [external link]. The next section details how to set up an example log management service, [Logit.io](https://logit.i/).
